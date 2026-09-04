@@ -7,15 +7,15 @@ about:
   head: 57bfcf1
   archived: false
   latestVersion: 32.2.2
-  collectedAt: 2026-09-04T20:02:40Z
+  collectedAt: 2026-09-04T20:38:42Z
 timeline:
   created: 2013-10-01
   lastCommit: 2026-09-03
   lastRelease: 2026-08-14
 popularity:
-  star: 75819
+  star: 75817
   watcher: 1522
-  fork: 10023
+  fork: 10024
   release: 247
   contributor: 661
   pullRequest: 8063
@@ -92,6 +92,169 @@ total:
   openIssue: 804
   commit: 15716
 ---
+path: /home/runner/.x-repo/github.com/obsproject/obs-studio
+collectedAt: 2026-09-04T20:38:47Z
+loc:
+  C:
+    code: 168034
+    comments: 27520
+    blanks: 35608
+    files: 645
+  Ini:
+    code: 128530
+    comments: 150
+    blanks: 241
+    files: 2373
+  Cpp:
+    code: 94659
+    comments: 5519
+    blanks: 22023
+    files: 322
+  CHeader:
+    code: 47889
+    comments: 12940
+    blanks: 9188
+    files: 379
+  CppHeader:
+    code: 12198
+    comments: 2082
+    blanks: 3828
+    files: 247
+  CMake:
+    code: 11317
+    comments: 320
+    blanks: 2306
+    files: 198
+  ReStructuredText:
+    code: 10987
+    comments: 0
+    blanks: 7014
+    files: 46
+  Html:
+    code: 8179
+    comments: 132
+    blanks: 9
+    files: 54
+  ObjectiveC:
+    code: 6171
+    comments: 153
+    blanks: 1486
+    files: 17
+  Swift:
+    code: 5468
+    comments: 2232
+    blanks: 1244
+    files: 39
+  Json:
+    code: 5273
+    comments: 0
+    blanks: 0
+    files: 16
+  ObjectiveCpp:
+    code: 4522
+    comments: 312
+    blanks: 1031
+    files: 21
+  Yaml:
+    code: 3290
+    comments: 100
+    blanks: 404
+    files: 28
+  Autoconf:
+    code: 1430
+    comments: 1719
+    blanks: 658
+    files: 66
+  Svg:
+    code: 1295
+    comments: 1
+    blanks: 4
+    files: 219
+  PowerShell:
+    code: 826
+    comments: 76
+    blanks: 179
+    files: 14
+  Makefile:
+    code: 805
+    comments: 70
+    blanks: 109
+    files: 3
+  Python:
+    code: 617
+    comments: 126
+    blanks: 180
+    files: 6
+  VisualStudioProject:
+    code: 514
+    comments: 0
+    blanks: 0
+    files: 1
+  Lua:
+    code: 361
+    comments: 51
+    blanks: 89
+    files: 4
+  Swig:
+    code: 213
+    comments: 16
+    blanks: 21
+    files: 2
+  Batch:
+    code: 133
+    comments: 3
+    blanks: 28
+    files: 4
+  Toml:
+    code: 94
+    comments: 8
+    blanks: 23
+    files: 3
+  XSL:
+    code: 56
+    comments: 55
+    blanks: 3
+    files: 2
+  VisualStudioSolution:
+    code: 37
+    comments: 0
+    blanks: 1
+    files: 1
+  ModuleDef:
+    code: 24
+    comments: 0
+    blanks: 0
+    files: 3
+  Sh:
+    code: 13
+    comments: 3
+    blanks: 4
+    files: 3
+  Css:
+    code: 9
+    comments: 2
+    blanks: 2
+    files: 1
+  Bitbake:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 505
+    blanks: 203
+    files: 6
+  Text:
+    code: 0
+    comments: 196
+    blanks: 110
+    files: 8
+total:
+  code: 513008
+  comments: 54309
+  blanks: 86034
+  files: 4732
 ---
 date: "2026-08-24"
 repo:
