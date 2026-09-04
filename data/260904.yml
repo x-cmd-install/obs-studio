@@ -1,0 +1,68 @@
+about:
+  description: OBS Studio - Free and open source software for live streaming and screen recording
+  license: GPL-2.0
+  homepage: https://obsproject.com
+  head: 57bfcf1
+  archived: false
+  latestVersion: 32.2.2
+  collectedAt: 2026-09-04T05:01:20Z
+timeline:
+  created: 2013-10-01
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-14
+popularity:
+  star: 75794
+  watcher: 1522
+  fork: 10016
+  release: 247
+  contributor: 662
+  pullRequest: 2463
+  issue: 5210
+language:
+  C: 6399369
+  C++: 4561196
+  CMake: 429330
+  Swift: 364978
+  Objective-C: 308739
+  Objective-C++: 203911
+  M: 27484
+  Lua: 15045
+  Shell: 9455
+  SWIG: 7079
+  Python: 6201
+  Batchfile: 3177
+  AppleScript: 2406
+totalLine: 12338370
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 15
+    openPR: 27
+    closedIssue: 18
+    openIssue: 23
+    commit: 25
+  last90d:
+    since: 2026-06-06
+    release: 7
+    mergedPR: 74
+    openPR: 70
+    closedIssue: 75
+    openIssue: 59
+    commit: 110
+  last180d:
+    since: 2026-03-08
+    release: 10
+    mergedPR: 122
+    openPR: 126
+    closedIssue: 177
+    openIssue: 115
+    commit: 207
+  last360d:
+    since: 2025-09-09
+    release: 22
+    mergedPR: 270
+    openPR: 193
+    closedIssue: 364
+    openIssue: 209
+    commit: 427
