@@ -5,19 +5,19 @@ about:
   head: 6b3e550
   archived: false
   latestVersion: "32.2.2"
-  collectedAt: 2026-09-07T06:02:27Z
+  collectedAt: 2026-09-07T18:32:11Z
 timeline:
   created: 2013-10-01
   lastCommit: 2026-09-04
   lastRelease: 2026-08-14
 popularity:
-  star: 75906
+  star: 75924
   watcher: 1526
-  fork: 10068
+  fork: 10073
   release: 247
   contributor: 661
-  pullRequest: 8066
-  issue: 5214
+  pullRequest: 8067
+  issue: 5215
 language:
   C: 6399369
   C++: 4561196
@@ -38,60 +38,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 14
-    openPR: 23
-    closedIssue: 21
+    openPR: 24
+    closedIssue: 22
     openIssue: 22
     commit: 23
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 36
-    openPR: 54
-    closedIssue: 56
+    openPR: 55
+    closedIssue: 57
     openIssue: 45
     commit: 44
   last90d:
     since: 2026-06-09
     release: 7
     mergedPR: 72
-    openPR: 70
-    closedIssue: 74
+    openPR: 71
+    closedIssue: 75
     openIssue: 59
     commit: 90
   last180d:
     since: 2026-03-11
     release: 10
     mergedPR: 123
-    openPR: 124
-    closedIssue: 175
+    openPR: 125
+    closedIssue: 176
     openIssue: 114
     commit: 207
   last360d:
     since: 2025-09-12
     release: 22
     mergedPR: 269
-    openPR: 192
-    closedIssue: 362
+    openPR: 193
+    closedIssue: 363
     openIssue: 209
     commit: 416
   last720d:
     since: 2024-09-17
     release: 39
     mergedPR: 709
-    openPR: 270
-    closedIssue: 775
+    openPR: 271
+    closedIssue: 776
     openIssue: 413
     commit: 1200
 total:
   release: 247
   mergedPR: 5601
-  openPR: 364
-  closedIssue: 4409
+  openPR: 365
+  closedIssue: 4410
   openIssue: 805
   commit: 15717
 ---
 path: /home/runner/.x-repo/github.com/obsproject/obs-studio
-collectedAt: 2026-09-07T06:02:40Z
+collectedAt: 2026-09-07T18:32:22Z
 loc:
   C:
     code: 168034
@@ -367,7 +367,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:02:42+00:00
+  collectedAt: 2026-09-07T18:32:23+00:00
   platform:
     darwin/arm64:
       name:  OBS-Studio-32.2.2-macOS-Apple-dSYMs.tar.xz
