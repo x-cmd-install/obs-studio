@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 38569688,
       "digest": "sha256:5d5d839a9c0376ad4393eb5d84f74e3c0a52aa2dffd54523c33e2c60dc3a7fdc",
-      "download_count": 1477,
+      "download_count": 1488,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:38:56Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-macOS-Apple-dSYMs.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 187703709,
       "digest": "sha256:920d6f26703d2df6e4085bd3c1cbed30488325084136c7a6e9e37021fbd6aaf7",
-      "download_count": 20596,
+      "download_count": 20835,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:05Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-macOS-Apple.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 39260752,
       "digest": "sha256:774bd980cb8d095fb9539f480d9663a349ba0956106134e25b173a8b7d7bae42",
-      "download_count": 666,
+      "download_count": 669,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:38:56Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-macOS-Intel-dSYMs.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 198863134,
       "digest": "sha256:f8d8afe3dffdc86efa0698c02ff0c997866bac3e6208ddaf56d37108baacf197",
-      "download_count": 7472,
+      "download_count": 7544,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:06Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-macOS-Intel.dmg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 16660601,
       "digest": "sha256:ec81fb66b03e75ddb3076b576f62679c39262e0e9960cef3e17a40dc5d68e6b4",
-      "download_count": 2400,
+      "download_count": 2429,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:38:55Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Sources.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 452157426,
       "digest": "sha256:c658adb3e99d2a46f44c61e884e0c78e481167fc663b5b533e5d3bf6ca401568",
-      "download_count": 628,
+      "download_count": 635,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:13Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-24.04-x86_64-dbsym.ddeb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 134324516,
       "digest": "sha256:b6557ca2059287210332accc94c267094050489cffffc5c832e746e3a418dab0",
-      "download_count": 2638,
+      "download_count": 2663,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:03Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-24.04-x86_64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 455678022,
       "digest": "sha256:e0c95ffa9f2cbecb8828f9d5ea578892795ff5672172717a92c60dfcc8321c4e",
-      "download_count": 558,
+      "download_count": 560,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:12Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-26.04-x86_64-dbsym.ddeb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 134438766,
       "digest": "sha256:f256927aeba7b8d2ce64815402e723d1dd8332d1e6535939b03572f2adcc2849",
-      "download_count": 1330,
+      "download_count": 1346,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:03Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Ubuntu-26.04-x86_64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 57317650,
       "digest": "sha256:1d1a352b33d7eb96e5133b8bbe3108cbcc9bcaee3dbbd8987bb9f36d1ad6c18e",
-      "download_count": 3053,
+      "download_count": 3089,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:38:58Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-arm64-PDBs.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 167128219,
       "digest": "sha256:b16b41c3cf89b8a919738359a46acb25d207ec1e488563139d7c276cfffb0906",
-      "download_count": 1948,
+      "download_count": 1982,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:04Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-arm64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 159809104,
       "digest": "sha256:c3a0b880adbe64dc4bcb68f93016916ab5b55ae43fd227115287bf80257d92dc",
-      "download_count": 60663,
+      "download_count": 61232,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:04Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 64011684,
       "digest": "sha256:a2d2c16859ea3c2508f49c2b9a48b8ec630578334d301fbdf42718f6e473662a",
-      "download_count": 600,
+      "download_count": 605,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:38:58Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-PDBs.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 187851583,
       "digest": "sha256:4d6e40e3ab155f56b30de517380566a206d74b63cdf5ad49aa596924768f97e1",
-      "download_count": 15166,
+      "download_count": 15310,
       "created_at": "2026-08-14T22:38:53Z",
       "updated_at": "2026-08-14T22:39:06Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64.zip"
