@@ -7,7 +7,7 @@ about:
   latestVersion: "32.2.2"
   latestRelease: "32.2.2"
   latestPrerelease: "32.2.0-rc2"
-  collectedAt: 2026-09-09T06:13:03Z
+  collectedAt: 2026-09-09T20:26:42Z
 timeline:
   created: 2013-10-01
   lastCommit: 2026-09-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 2026-07-16
 popularity:
-  star: 75985
-  watcher: 1527
-  fork: 10089
+  star: 76008
+  watcher: 1529
+  fork: 10097
   release: 247
   contributor: 661
-  pullRequest: 8068
-  issue: 5216
+  pullRequest: 8070
+  issue: 5217
 language:
   C: 6399369
   C++: 4561233
@@ -42,32 +42,32 @@ recent:
     since: 2026-08-10
     release: 1
     mergedPR: 14
-    openPR: 22
-    closedIssue: 23
+    openPR: 23
+    closedIssue: 24
     openIssue: 20
     commit: 24
   last60d:
     since: 2026-07-11
     release: 4
     mergedPR: 36
-    openPR: 53
-    closedIssue: 55
+    openPR: 54
+    closedIssue: 56
     openIssue: 45
     commit: 45
   last90d:
     since: 2026-06-11
     release: 7
     mergedPR: 69
-    openPR: 67
-    closedIssue: 76
+    openPR: 68
+    closedIssue: 77
     openIssue: 59
     commit: 91
   last180d:
     since: 2026-03-13
     release: 9
     mergedPR: 122
-    openPR: 124
-    closedIssue: 175
+    openPR: 125
+    closedIssue: 176
     openIssue: 114
     commit: 208
   last360d:
@@ -75,27 +75,27 @@ recent:
     release: 22
     mergedPR: 268
     openPR: 191
-    closedIssue: 363
+    closedIssue: 364
     openIssue: 206
     commit: 417
   last720d:
     since: 2024-09-19
     release: 39
     mergedPR: 706
-    openPR: 270
-    closedIssue: 774
+    openPR: 269
+    closedIssue: 775
     openIssue: 412
     commit: 1185
 total:
   release: 247
   mergedPR: 5602
-  openPR: 364
-  closedIssue: 4411
+  openPR: 347
+  closedIssue: 4412
   openIssue: 805
   commit: 15718
 ---
 path: /home/runner/.x-repo/github.com/obsproject/obs-studio
-collectedAt: 2026-09-09T06:13:13Z
+collectedAt: 2026-09-09T20:26:57Z
 loc:
   C:
     code: 168034
