@@ -7,7 +7,7 @@ about:
   latestVersion: "32.2.2"
   latestRelease: "32.2.2"
   latestPrerelease: "32.2.0-rc2"
-  collectedAt: 2026-09-10T21:16:43Z
+  collectedAt: 2026-09-10T22:32:34Z
 timeline:
   created: 2013-10-01
   lastCommit: 2026-09-10
@@ -95,7 +95,7 @@ total:
   commit: 15724
 ---
 path: /home/runner/.x-repo/github.com/obsproject/obs-studio
-collectedAt: 2026-09-10T21:16:58Z
+collectedAt: 2026-09-10T22:32:47Z
 loc:
   C:
     code: 167968
