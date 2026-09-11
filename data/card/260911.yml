@@ -2,25 +2,25 @@ about:
   description: "OBS Studio - Free and open source software for live streaming and screen recording"
   license: GPL-2.0
   homepage: https://obsproject.com
-  head: 0e742b3
+  head: caaa022
   archived: false
   latestVersion: "32.2.2"
   latestRelease: "32.2.2"
   latestPrerelease: "32.2.0-rc2"
-  collectedAt: 2026-09-11T06:19:24Z
+  collectedAt: 2026-09-11T18:47:39Z
 timeline:
   created: 2013-10-01
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-08-14
   lastRelease: 2026-08-14
   lastPrerelease: 2026-07-16
 popularity:
-  star: 76047
-  watcher: 1526
-  fork: 10112
+  star: 76067
+  watcher: 1527
+  fork: 10122
   release: 247
   contributor: 661
-  pullRequest: 8073
+  pullRequest: 8074
   issue: 5219
 language:
   C: 6390811
@@ -42,60 +42,60 @@ recent:
     since: 2026-08-12
     release: 1
     mergedPR: 15
-    openPR: 21
+    openPR: 22
     closedIssue: 23
     openIssue: 20
     commit: 28
   last60d:
     since: 2026-07-13
     release: 4
-    mergedPR: 36
+    mergedPR: 37
     openPR: 51
     closedIssue: 57
     openIssue: 45
-    commit: 49
+    commit: 50
   last90d:
     since: 2026-06-13
     release: 7
-    mergedPR: 66
+    mergedPR: 67
     openPR: 65
     closedIssue: 77
     openIssue: 56
-    commit: 95
+    commit: 96
   last180d:
     since: 2026-03-15
     release: 9
-    mergedPR: 123
+    mergedPR: 124
     openPR: 123
     closedIssue: 172
     openIssue: 115
-    commit: 213
+    commit: 214
   last360d:
     since: 2025-09-16
     release: 22
-    mergedPR: 268
+    mergedPR: 269
     openPR: 187
     closedIssue: 364
     openIssue: 207
-    commit: 422
+    commit: 423
   last720d:
     since: 2024-09-21
     release: 39
-    mergedPR: 707
+    mergedPR: 708
     openPR: 266
     closedIssue: 775
     openIssue: 413
-    commit: 1191
+    commit: 1192
 total:
   release: 247
-  mergedPR: 5605
+  mergedPR: 5606
   openPR: 342
   closedIssue: 4413
   openIssue: 806
-  commit: 15724
+  commit: 15725
 ---
 path: /home/runner/.x-repo/github.com/obsproject/obs-studio
-collectedAt: 2026-09-11T06:19:36Z
+collectedAt: 2026-09-11T18:48:49Z
 loc:
   C:
     code: 167968
@@ -148,7 +148,7 @@ loc:
     blanks: 1244
     files: 39
   Json:
-    code: 5185
+    code: 5186
     comments: 0
     blanks: 0
     files: 16
@@ -253,7 +253,7 @@ loc:
     blanks: 110
     files: 8
 total:
-  code: 512518
+  code: 512519
   comments: 54315
   blanks: 85999
   files: 4731
