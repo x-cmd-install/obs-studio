@@ -48,22 +48,22 @@ x install obs-studio
 
 ## 流行度
 
-- **Star**: 76,134 · **Fork**: 10,141 · **开放 issue**: 5,222 · **贡献者**: 661
+- **Star**: 76,180 · **Fork**: 10,156 · **开放 issue**: 5,223 · **贡献者**: 661
 
 ## 累计统计
 
-- **发布数**: 247 · **已合并 PR**: 5606 · **开放 PR**: 339 · **已关闭 issue**: 4413 · **开放 issue**: 809 · **提交数**: 15725
+- **发布数**: 247 · **已合并 PR**: 5606 · **开放 PR**: 339 · **已关闭 issue**: 4413 · **开放 issue**: 810 · **提交数**: 15725
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 14 | 22 | 22 | 19 | 18 |
-| last60d | 2026-07-15 | 4 | 34 | 48 | 56 | 48 | 42 |
-| 90d | 2026-06-15 | 7 | 67 | 65 | 77 | 58 | 81 |
-| last180d | 2026-03-17 | 9 | 124 | 124 | 169 | 118 | 201 |
-| 360d | 2025-09-18 | 22 | 266 | 188 | 362 | 210 | 416 |
-| last720d | 2024-09-23 | 39 | 706 | 263 | 772 | 416 | 1192 |
+| 30d | 2026-08-15 | 0 | 14 | 21 | 21 | 20 | 18 |
+| last60d | 2026-07-16 | 4 | 33 | 46 | 54 | 47 | 42 |
+| 90d | 2026-06-16 | 7 | 67 | 65 | 77 | 59 | 81 |
+| last180d | 2026-03-18 | 9 | 123 | 124 | 169 | 119 | 201 |
+| 360d | 2025-09-19 | 22 | 264 | 188 | 361 | 211 | 416 |
+| last720d | 2024-09-24 | 39 | 706 | 263 | 772 | 416 | 1192 |
 
 ## Release 资产
 
@@ -84,24 +84,6 @@ x install obs-studio
 | [OBS-Studio-32.2.2-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-PDBs.zip) | 61.0 MiB | `native/win/x64` |
 | [OBS-Studio-32.2.2-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64.zip) | 179.1 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/obs-studio) 上共有 **229** 个发行版报告此项目。**45** 个 ✅ 已是最新上游版本，**90** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `32.2.2` | ✅ latest |
-| Debian 14 | `32.2.2` | ✅ latest |
-| Debian 13 | `30.2.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `32.1.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `30.0.2` | ⚠️ outdated |
-| Arch | `32.2.2` | ✅ latest |
-| Fedora rawhide | `32.2.2` | ✅ latest |
-| Nix unstable | `32.2.2` | ✅ latest |
-| Void | `32.1.2` | ⚠️ outdated |
-| Alpine edge | `32.2.2` | ✅ latest |
-| openSUSE Tumbleweed | `32.2.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 obs-studio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `obs-studio` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +93,4 @@ obs-studio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:16:08Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:35:21Z._

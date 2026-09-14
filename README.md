@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 76,134 · **Forks**: 10,141 · **Open issues**: 5,222 · **Contributors**: 661
+- **Stars**: 76,180 · **Forks**: 10,156 · **Open issues**: 5,223 · **Contributors**: 661
 
 ## Totals (cumulative)
 
-- **Releases**: 247 · **Merged PRs**: 5606 · **Open PRs**: 339 · **Closed issues**: 4413 · **Open issues**: 809 · **Commits**: 15725
+- **Releases**: 247 · **Merged PRs**: 5606 · **Open PRs**: 339 · **Closed issues**: 4413 · **Open issues**: 810 · **Commits**: 15725
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 14 | 22 | 22 | 19 | 18 |
-| last60d | 2026-07-15 | 4 | 34 | 48 | 56 | 48 | 42 |
-| 90d | 2026-06-15 | 7 | 67 | 65 | 77 | 58 | 81 |
-| last180d | 2026-03-17 | 9 | 124 | 124 | 169 | 118 | 201 |
-| 360d | 2025-09-18 | 22 | 266 | 188 | 362 | 210 | 416 |
-| last720d | 2024-09-23 | 39 | 706 | 263 | 772 | 416 | 1192 |
+| 30d | 2026-08-15 | 0 | 14 | 21 | 21 | 20 | 18 |
+| last60d | 2026-07-16 | 4 | 33 | 46 | 54 | 47 | 42 |
+| 90d | 2026-06-16 | 7 | 67 | 65 | 77 | 59 | 81 |
+| last180d | 2026-03-18 | 9 | 123 | 124 | 169 | 119 | 201 |
+| 360d | 2025-09-19 | 22 | 264 | 188 | 361 | 211 | 416 |
+| last720d | 2024-09-24 | 39 | 706 | 263 | 772 | 416 | 1192 |
 
 ## Release assets
 
@@ -84,24 +84,6 @@ Lowest-scoring checks:
 | [OBS-Studio-32.2.2-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-PDBs.zip) | 61.0 MiB | `native/win/x64` |
 | [OBS-Studio-32.2.2-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64.zip) | 179.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **229** distros on [repology.org](https://repology.org/project/obs-studio). **45** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `32.2.2` | ✅ latest |
-| Debian 14 | `32.2.2` | ✅ latest |
-| Debian 13 | `30.2.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `32.1.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `30.0.2` | ⚠️ outdated |
-| Arch | `32.2.2` | ✅ latest |
-| Fedora rawhide | `32.2.2` | ✅ latest |
-| Nix unstable | `32.2.2` | ✅ latest |
-| Void | `32.1.2` | ⚠️ outdated |
-| Alpine edge | `32.2.2` | ✅ latest |
-| openSUSE Tumbleweed | `32.2.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `obs-studio` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +93,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:16:07Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:35:20Z._
