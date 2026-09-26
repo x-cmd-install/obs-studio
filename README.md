@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `32.2.2` (2026-08-14)
+- **Latest**: `33.0.0-beta4` (2026-08-14)
 - **Last commit**: 2026-09-25
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 76,602 · **Forks**: 10,305 · **Open issues**: 5,234 · **Contributors**: 665
+- **Stars**: 76,635 · **Forks**: 10,315 · **Open issues**: 5,237 · **Contributors**: 665
 
 ## Totals (cumulative)
 
-- **Releases**: 247 · **Merged PRs**: 5628 · **Open PRs**: 314 · **Closed issues**: 4419 · **Open issues**: 815 · **Commits**: 15765
+- **Releases**: 248 · **Merged PRs**: 5629 · **Open PRs**: 314 · **Closed issues**: 4420 · **Open issues**: 817 · **Commits**: 15768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 16 | 21 | 15 | 21 | 29 |
-| last60d | 2026-07-27 | 1 | 35 | 44 | 42 | 47 | 60 |
-| 90d | 2026-06-27 | 6 | 58 | 63 | 75 | 58 | 91 |
-| last180d | 2026-03-29 | 9 | 134 | 113 | 155 | 118 | 229 |
-| 360d | 2025-09-30 | 19 | 272 | 171 | 341 | 215 | 441 |
-| last720d | 2024-10-05 | 39 | 715 | 241 | 761 | 418 | 1202 |
+| 30d | 2026-08-27 | 1 | 17 | 21 | 16 | 22 | 32 |
+| last60d | 2026-07-28 | 2 | 36 | 44 | 42 | 48 | 63 |
+| 90d | 2026-06-28 | 7 | 59 | 63 | 76 | 60 | 94 |
+| last180d | 2026-03-30 | 10 | 134 | 112 | 156 | 119 | 232 |
+| 360d | 2025-10-01 | 20 | 272 | 171 | 340 | 216 | 444 |
+| last720d | 2024-10-06 | 40 | 711 | 241 | 761 | 420 | 1196 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:15:07Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:13:29Z._
