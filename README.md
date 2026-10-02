@@ -18,7 +18,7 @@ Total: **513,899** lines of code across **3987** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 168,076 | 27,559 | 35,640 | 647 |
+| C | 168,072 | 27,559 | 35,640 | 647 |
 | Ini | 128,546 | 151 | 242 | 2373 |
 | Cpp | 95,547 | 5,802 | 22,287 | 332 |
 | CHeader | 47,786 | 12,981 | 9,209 | 381 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `33.0.0-beta5` (2026-08-14)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 76,833 · **Forks**: 10,394 · **Open issues**: 5,251 · **Contributors**: 665
+- **Stars**: 76,865 · **Forks**: 10,401 · **Open issues**: 5,251 · **Contributors**: 665
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 5635 · **Open PRs**: 321 · **Closed issues**: 4425 · **Open issues**: 826 · **Commits**: 15774
+- **Releases**: 249 · **Merged PRs**: 5640 · **Open PRs**: 322 · **Closed issues**: 4428 · **Open issues**: 823 · **Commits**: 15779
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 19 | 28 | 19 | 28 | 28 |
-| last60d | 2026-08-02 | 3 | 37 | 48 | 37 | 49 | 62 |
-| 90d | 2026-07-03 | 8 | 59 | 67 | 76 | 69 | 90 |
-| last180d | 2026-04-04 | 10 | 137 | 116 | 158 | 124 | 231 |
-| 360d | 2025-10-06 | 21 | 277 | 179 | 341 | 224 | 449 |
-| last720d | 2024-10-11 | 40 | 706 | 248 | 760 | 425 | 1185 |
+| 30d | 2026-09-02 | 2 | 24 | 27 | 20 | 24 | 33 |
+| last60d | 2026-08-03 | 3 | 42 | 46 | 40 | 45 | 67 |
+| 90d | 2026-07-04 | 7 | 64 | 67 | 79 | 66 | 95 |
+| last180d | 2026-04-05 | 10 | 142 | 117 | 161 | 120 | 236 |
+| 360d | 2025-10-07 | 21 | 282 | 180 | 340 | 220 | 454 |
+| last720d | 2024-10-12 | 40 | 707 | 249 | 763 | 420 | 1189 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:13:35Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:57:33Z._
