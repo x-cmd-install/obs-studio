@@ -26,7 +26,7 @@ Total: **513,771** lines of code across **3987** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `33.0.0-beta6` (2026-08-14)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 76,975 · **Forks**: 10,446 · **Open issues**: 5,254 · **Contributors**: 666
+- **Stars**: 77,035 · **Forks**: 10,463 · **Open issues**: 5,255 · **Contributors**: 666
 
 ## Totals (cumulative)
 
-- **Releases**: 250 · **Merged PRs**: 5645 · **Open PRs**: 327 · **Closed issues**: 4429 · **Open issues**: 825 · **Commits**: 15791
+- **Releases**: 250 · **Merged PRs**: 5646 · **Open PRs**: 325 · **Closed issues**: 4432 · **Open issues**: 823 · **Commits**: 15792
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 3 | 26 | 28 | 18 | 22 | 43 |
-| last60d | 2026-08-06 | 4 | 44 | 45 | 40 | 45 | 76 |
-| 90d | 2026-07-07 | 8 | 68 | 70 | 77 | 67 | 101 |
-| last180d | 2026-04-08 | 11 | 144 | 113 | 159 | 121 | 244 |
-| 360d | 2025-10-10 | 22 | 285 | 185 | 338 | 220 | 461 |
-| last720d | 2024-10-15 | 41 | 708 | 253 | 761 | 419 | 1201 |
+| 30d | 2026-09-06 | 3 | 27 | 25 | 22 | 20 | 44 |
+| last60d | 2026-08-07 | 4 | 44 | 42 | 44 | 41 | 77 |
+| 90d | 2026-07-08 | 8 | 69 | 68 | 79 | 65 | 102 |
+| last180d | 2026-04-09 | 11 | 145 | 111 | 163 | 118 | 245 |
+| 360d | 2025-10-11 | 22 | 286 | 183 | 340 | 218 | 462 |
+| last720d | 2024-10-16 | 41 | 703 | 251 | 762 | 417 | 1199 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:01:48Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:42:20Z._
