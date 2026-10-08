@@ -14,12 +14,12 @@ x install obs-studio
 
 ## Code insight
 
-Total: **513,771** lines of code across **3987** files in the top 5 languages.
+Total: **515,711** lines of code across **3999** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 168,048 | 27,559 | 35,640 | 647 |
-| Ini | 128,546 | 151 | 242 | 2373 |
+| Ini | 130,486 | 151 | 242 | 2385 |
 | Cpp | 95,456 | 5,796 | 22,282 | 332 |
 | CHeader | 47,786 | 12,981 | 9,209 | 381 |
 | CppHeader | 12,254 | 2,198 | 3,868 | 254 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `33.0.0-beta6` (2026-08-14)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-08
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 77,069 · **Forks**: 10,472 · **Open issues**: 5,256 · **Contributors**: 666
+- **Stars**: 77,118 · **Forks**: 10,494 · **Open issues**: 5,258 · **Contributors**: 666
 
 ## Totals (cumulative)
 
-- **Releases**: 250 · **Merged PRs**: 5646 · **Open PRs**: 325 · **Closed issues**: 4434 · **Open issues**: 822 · **Commits**: 15792
+- **Releases**: 250 · **Merged PRs**: 5648 · **Open PRs**: 326 · **Closed issues**: 4435 · **Open issues**: 823 · **Commits**: 15794
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 27 | 24 | 23 | 19 | 44 |
-| last60d | 2026-08-08 | 4 | 44 | 42 | 46 | 40 | 77 |
-| 90d | 2026-07-09 | 8 | 69 | 67 | 80 | 64 | 102 |
-| last180d | 2026-04-10 | 11 | 143 | 111 | 164 | 117 | 245 |
-| 360d | 2025-10-12 | 22 | 286 | 183 | 340 | 214 | 462 |
-| last720d | 2024-10-17 | 41 | 703 | 251 | 764 | 416 | 1191 |
+| 30d | 2026-09-08 | 3 | 29 | 25 | 23 | 20 | 46 |
+| last60d | 2026-08-09 | 4 | 46 | 42 | 47 | 40 | 79 |
+| 90d | 2026-07-10 | 8 | 70 | 68 | 80 | 65 | 104 |
+| last180d | 2026-04-11 | 11 | 145 | 112 | 165 | 117 | 247 |
+| 360d | 2025-10-13 | 22 | 288 | 183 | 341 | 215 | 464 |
+| last720d | 2024-10-18 | 41 | 703 | 252 | 762 | 417 | 1192 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:10:22Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:21:04Z._
