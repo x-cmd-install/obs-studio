@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `33.0.0-rc2` (2026-08-14)
-- **Last commit**: 2026-10-16
+- **Latest**: `33.0.0-rc3` (2026-08-14)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 77,799 · **Forks**: 10,756 · **Open issues**: 5,274 · **Contributors**: 667
+- **Stars**: 77,848 · **Forks**: 10,772 · **Open issues**: 5,275 · **Contributors**: 667
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5663 · **Open PRs**: 340 · **Closed issues**: 4447 · **Open issues**: 827 · **Commits**: 15810
+- **Releases**: 253 · **Merged PRs**: 5664 · **Open PRs**: 340 · **Closed issues**: 4447 · **Open issues**: 828 · **Commits**: 15811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 5 | 36 | 34 | 31 | 15 | 39 |
-| last60d | 2026-08-21 | 5 | 54 | 53 | 52 | 35 | 73 |
-| 90d | 2026-07-22 | 7 | 73 | 72 | 81 | 62 | 102 |
-| last180d | 2026-04-23 | 12 | 152 | 122 | 165 | 115 | 252 |
-| 360d | 2025-10-25 | 24 | 296 | 193 | 347 | 210 | 472 |
-| last720d | 2024-10-30 | 42 | 700 | 265 | 759 | 417 | 1193 |
+| 30d | 2026-09-21 | 6 | 37 | 34 | 31 | 15 | 40 |
+| last60d | 2026-08-22 | 6 | 55 | 52 | 51 | 36 | 74 |
+| 90d | 2026-07-23 | 8 | 72 | 72 | 77 | 63 | 103 |
+| last180d | 2026-04-24 | 13 | 153 | 122 | 165 | 116 | 253 |
+| 360d | 2025-10-26 | 25 | 297 | 192 | 345 | 211 | 473 |
+| last720d | 2024-10-31 | 43 | 699 | 265 | 759 | 418 | 1185 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T06:06:24Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:56:01Z._
