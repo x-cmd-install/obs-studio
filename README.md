@@ -26,7 +26,7 @@ Total: **514,996** lines of code across **3999** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 78,227 · **Forks**: 10,863 · **Open issues**: 5,289 · **Contributors**: 667
+- **Stars**: 78,308 · **Forks**: 10,892 · **Open issues**: 5,290 · **Contributors**: 667
 
 ## Totals (cumulative)
 
-- **Releases**: 254 · **Merged PRs**: 5666 · **Open PRs**: 348 · **Closed issues**: 4456 · **Open issues**: 833 · **Commits**: 15813
+- **Releases**: 254 · **Merged PRs**: 5666 · **Open PRs**: 349 · **Closed issues**: 4456 · **Open issues**: 834 · **Commits**: 15813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 6 | 31 | 41 | 37 | 16 | 21 |
-| last60d | 2026-08-27 | 7 | 53 | 57 | 56 | 37 | 64 |
-| 90d | 2026-07-28 | 8 | 72 | 80 | 81 | 64 | 100 |
-| last180d | 2026-04-29 | 14 | 153 | 127 | 166 | 118 | 247 |
-| 360d | 2025-10-31 | 25 | 296 | 198 | 349 | 213 | 471 |
-| last720d | 2024-11-05 | 43 | 695 | 272 | 759 | 422 | 1181 |
+| 30d | 2026-09-27 | 6 | 31 | 42 | 36 | 17 | 21 |
+| last60d | 2026-08-28 | 7 | 51 | 58 | 56 | 38 | 64 |
+| 90d | 2026-07-29 | 8 | 72 | 81 | 79 | 64 | 100 |
+| last180d | 2026-04-30 | 14 | 151 | 128 | 164 | 117 | 247 |
+| 360d | 2025-11-01 | 25 | 296 | 199 | 348 | 214 | 471 |
+| last720d | 2024-11-06 | 43 | 694 | 273 | 758 | 423 | 1180 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:58:00Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:30:25Z._
