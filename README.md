@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `33.0.0` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-27
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 78,308 · **Forks**: 10,892 · **Open issues**: 5,290 · **Contributors**: 667
+- **Stars**: 78,428 · **Forks**: 10,921 · **Open issues**: 5,295 · **Contributors**: 667
 
 ## Totals (cumulative)
 
-- **Releases**: 254 · **Merged PRs**: 5666 · **Open PRs**: 349 · **Closed issues**: 4456 · **Open issues**: 834 · **Commits**: 15813
+- **Releases**: 254 · **Merged PRs**: 5669 · **Open PRs**: 347 · **Closed issues**: 4461 · **Open issues**: 834 · **Commits**: 15816
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 6 | 31 | 42 | 36 | 17 | 21 |
-| last60d | 2026-08-28 | 7 | 51 | 58 | 56 | 38 | 64 |
-| 90d | 2026-07-29 | 8 | 72 | 81 | 79 | 64 | 100 |
-| last180d | 2026-04-30 | 14 | 151 | 128 | 164 | 117 | 247 |
-| 360d | 2025-11-01 | 25 | 296 | 199 | 348 | 214 | 471 |
-| last720d | 2024-11-06 | 43 | 694 | 273 | 758 | 423 | 1180 |
+| 30d | 2026-09-28 | 6 | 29 | 40 | 36 | 16 | 24 |
+| last60d | 2026-08-29 | 7 | 53 | 57 | 58 | 38 | 67 |
+| 90d | 2026-07-30 | 8 | 73 | 80 | 82 | 63 | 103 |
+| last180d | 2026-05-01 | 14 | 154 | 125 | 167 | 117 | 250 |
+| 360d | 2025-11-02 | 25 | 298 | 198 | 351 | 214 | 474 |
+| last720d | 2024-11-07 | 43 | 697 | 272 | 761 | 424 | 1183 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **233** distros on [repology.org](https://repology.org/project/obs-studio). **19** are ✅ on the latest upstream release, **121** are ⚠️ on an older version.
+Reported by **233** distros on [repology.org](https://repology.org/project/obs-studio). **20** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:30:25Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:55:42Z._
