@@ -14,13 +14,13 @@ x install obs-studio
 
 ## 代码洞察
 
-合计: **514,996** 行代码（覆盖前 5 种语言、共 **3999** 个文件）。
+合计: **514,997** 行代码（覆盖前 5 种语言、共 **3999** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | C | 168,068 | 27,559 | 35,645 | 647 |
 | Ini | 130,486 | 151 | 242 | 2385 |
-| Cpp | 95,465 | 5,802 | 22,281 | 332 |
+| Cpp | 95,466 | 5,804 | 22,282 | 332 |
 | CHeader | 47,787 | 12,982 | 9,209 | 381 |
 | CppHeader | 12,255 | 2,198 | 3,868 | 254 |
 
@@ -42,49 +42,49 @@ x install obs-studio
 
 ## 发布
 
-- **最新版本**: `33.0.0` (2026-10-23)
-- **最近提交**: 2026-10-28
+- **最新版本**: `33.0.1` (2026-10-29)
+- **最近提交**: 2026-10-29
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 78,527 · **Fork**: 10,937 · **开放 issue**: 5,298 · **贡献者**: 667
+- **Star**: 78,595 · **Fork**: 10,960 · **开放 issue**: 5,303 · **贡献者**: 667
 
 ## 累计统计
 
-- **发布数**: 254 · **已合并 PR**: 5670 · **开放 PR**: 349 · **已关闭 issue**: 4461 · **开放 issue**: 837 · **提交数**: 15817
+- **发布数**: 255 · **已合并 PR**: 5672 · **开放 PR**: 349 · **已关闭 issue**: 4465 · **开放 issue**: 838 · **提交数**: 15819
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 6 | 29 | 39 | 35 | 19 | 25 |
-| last60d | 2026-08-30 | 7 | 54 | 58 | 58 | 41 | 68 |
-| 90d | 2026-07-31 | 8 | 73 | 79 | 79 | 64 | 104 |
-| last180d | 2026-05-02 | 14 | 154 | 126 | 166 | 119 | 251 |
-| 360d | 2025-11-03 | 25 | 299 | 200 | 349 | 216 | 475 |
-| last720d | 2024-11-08 | 43 | 697 | 274 | 760 | 426 | 1178 |
+| 30d | 2026-09-30 | 7 | 31 | 37 | 37 | 20 | 27 |
+| last60d | 2026-08-31 | 8 | 55 | 58 | 60 | 41 | 70 |
+| 90d | 2026-08-01 | 9 | 74 | 79 | 81 | 64 | 106 |
+| last180d | 2026-05-03 | 15 | 156 | 124 | 168 | 119 | 253 |
+| 360d | 2025-11-04 | 26 | 301 | 200 | 352 | 217 | 477 |
+| last720d | 2024-11-09 | 44 | 698 | 274 | 761 | 427 | 1179 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [OBS-Studio-33.0.0-macOS-Apple-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-macOS-Apple-dSYMs.tar.xz) | 37.5 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.0-macOS-Apple.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-macOS-Apple.dmg) | 199.9 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.0-macOS-Intel-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-macOS-Intel-dSYMs.tar.xz) | 38.1 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.0-macOS-Intel.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-macOS-Intel.dmg) | 211.6 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.0-Sources.tar.gz](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Sources.tar.gz) | 15.9 MiB | `native/unknown` |
-| [OBS-Studio-33.0.0-Ubuntu-26.04-x86_64-dbsym.ddeb](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Ubuntu-26.04-x86_64-dbsym.ddeb) | 364.6 MiB | `other` |
-| [OBS-Studio-33.0.0-Ubuntu-26.04-x86_64.deb](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Ubuntu-26.04-x86_64.deb) | 152.0 MiB | `other` |
-| [OBS-Studio-33.0.0-Windows-arm64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-arm64-PDBs.zip) | 57.0 MiB | `native/win/arm64` |
-| [OBS-Studio-33.0.0-Windows-arm64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-arm64.zip) | 190.9 MiB | `native/win/arm64` |
-| [OBS-Studio-33.0.0-Windows-x64-Installer.exe](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-x64-Installer.exe) | 178.0 MiB | `native/win/x64` |
-| [OBS-Studio-33.0.0-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-x64-PDBs.zip) | 62.9 MiB | `native/win/x64` |
-| [OBS-Studio-33.0.0-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-x64.zip) | 213.4 MiB | `native/win/x64` |
+| [OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz) | 37.5 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.1-macOS-Apple.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple.dmg) | 199.9 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz) | 38.1 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.1-macOS-Intel.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel.dmg) | 211.6 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.1-Sources.tar.gz](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Sources.tar.gz) | 15.9 MiB | `native/unknown` |
+| [OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb) | 364.6 MiB | `other` |
+| [OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb) | 152.0 MiB | `other` |
+| [OBS-Studio-33.0.1-Windows-arm64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64-PDBs.zip) | 57.0 MiB | `native/win/arm64` |
+| [OBS-Studio-33.0.1-Windows-arm64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64.zip) | 190.9 MiB | `native/win/arm64` |
+| [OBS-Studio-33.0.1-Windows-x64-Installer.exe](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe) | 178.0 MiB | `native/win/x64` |
+| [OBS-Studio-33.0.1-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-PDBs.zip) | 62.9 MiB | `native/win/x64` |
+| [OBS-Studio-33.0.1-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64.zip) | 213.4 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/obs-studio) 上共有 **229** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**116** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/obs-studio) 上共有 **232** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**126** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -93,7 +93,7 @@ x install obs-studio
 | Debian 13 | `30.2.3` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `32.1.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `30.0.2` | ⚠️ outdated |
-| Arch | `33.0.0` | ✅ latest |
+| Arch | `33.0.0` | ⚠️ outdated |
 | Fedora rawhide | `32.2.2` | ⚠️ outdated |
 | Nix unstable | `32.2.2` | ⚠️ outdated |
 | Void | `32.2.2` | ⚠️ outdated |
@@ -109,4 +109,4 @@ obs-studio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T07:06:12Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T07:07:10Z._
