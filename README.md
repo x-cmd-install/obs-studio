@@ -14,15 +14,15 @@ x install obs-studio
 
 ## Code insight
 
-Total: **522,461** lines of code across **4039** files in the top 5 languages.
+Total: **522,582** lines of code across **4039** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 170,933 | 27,740 | 36,230 | 654 |
+| C | 171,004 | 27,740 | 36,251 | 654 |
 | Ini | 130,511 | 151 | 245 | 2388 |
-| Cpp | 98,730 | 6,039 | 22,941 | 343 |
-| CHeader | 48,760 | 13,351 | 9,493 | 400 |
-| CppHeader | 12,260 | 2,198 | 3,868 | 254 |
+| Cpp | 98,764 | 6,046 | 22,957 | 343 |
+| CHeader | 48,762 | 13,351 | 9,493 | 400 |
+| CppHeader | 12,259 | 2,198 | 3,868 | 254 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `33.0.1` (2026-10-29)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 79,245 · **Forks**: 11,146 · **Open issues**: 5,338 · **Contributors**: 668
+- **Stars**: 79,316 · **Forks**: 11,174 · **Open issues**: 5,339 · **Contributors**: 670
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 5686 · **Open PRs**: 353 · **Closed issues**: 4485 · **Open issues**: 853 · **Commits**: 15843
+- **Releases**: 255 · **Merged PRs**: 5695 · **Open PRs**: 344 · **Closed issues**: 4488 · **Open issues**: 851 · **Commits**: 15852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 21 | 42 | 42 | 34 | 16 |
-| last60d | 2026-09-11 | 8 | 55 | 63 | 70 | 52 | 71 |
-| 90d | 2026-08-12 | 9 | 76 | 78 | 94 | 71 | 110 |
-| last180d | 2026-05-14 | 15 | 159 | 128 | 177 | 128 | 262 |
-| 360d | 2025-11-15 | 26 | 306 | 205 | 360 | 226 | 489 |
-| last720d | 2024-11-20 | 44 | 697 | 279 | 775 | 435 | 1195 |
+| 30d | 2026-10-12 | 4 | 23 | 38 | 41 | 33 | 17 |
+| last60d | 2026-09-12 | 8 | 58 | 60 | 71 | 49 | 73 |
+| 90d | 2026-08-13 | 9 | 81 | 73 | 96 | 68 | 114 |
+| last180d | 2026-05-15 | 15 | 166 | 120 | 179 | 127 | 268 |
+| 360d | 2025-11-16 | 26 | 313 | 198 | 362 | 225 | 495 |
+| last720d | 2024-11-21 | 43 | 702 | 271 | 775 | 432 | 1202 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **230** distros on [repology.org](https://repology.org/project/obs-studio). **26** are ✅ on the latest upstream release, **108** are ⚠️ on an older version.
+Reported by **229** distros on [repology.org](https://repology.org/project/obs-studio). **26** are ✅ on the latest upstream release, **107** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:04:35Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:53:11Z._
