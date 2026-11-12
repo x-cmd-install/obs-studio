@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 39297936,
       "digest": "sha256:f47fd8dfb1a1dfa938fc0b573da44088034296a2769943d84fcfb375cf3b32cc",
-      "download_count": 1098,
+      "download_count": 1156,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:47Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 209628971,
       "digest": "sha256:3d6b2eedeb56416602af635adaba32327fdf11ff9d2806a4ce7d5b608de73238",
-      "download_count": 21952,
+      "download_count": 22962,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:55Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 39994976,
       "digest": "sha256:6ee8ec85d80de024a9b60014675a6b054e060a302232e74760277fb1ef351b2d",
-      "download_count": 531,
+      "download_count": 547,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:47Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 221903179,
       "digest": "sha256:745257d65e06eb0f784af229659223a863ad50d036464bb2b52f8a2d9278c2b1",
-      "download_count": 4473,
+      "download_count": 4766,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:54Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel.dmg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 16719400,
       "digest": "sha256:c8d3a8f69a0f17970ac0a8f2a2462f1bc4dacd324f6da0c4b408d442d4798913",
-      "download_count": 1590,
+      "download_count": 1667,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:46Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Sources.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 382267440,
       "digest": "sha256:fe45352bc671389178eed9d79c662727a011f266b0f5e65b92ca723b9740a889",
-      "download_count": 725,
+      "download_count": 739,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:44:01Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 159354224,
       "digest": "sha256:a9f062057576074439e6467f2716e3bbed6a0edab6ebf2c2f9595a3d2f1dc57f",
-      "download_count": 3552,
+      "download_count": 3697,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:54Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 59758532,
       "digest": "sha256:91c38b6cce8d82270af7dbbf0810c91927d9a1584de7a6e16909a9b519b05973",
-      "download_count": 1182,
+      "download_count": 1255,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:48Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64-PDBs.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 200182561,
       "digest": "sha256:5bee731f6a9ce843ac670b4ccf048a54cdccb8b06acb3fd1c7928b9705f11100",
-      "download_count": 1746,
+      "download_count": 1850,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:55Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 186662440,
       "digest": "sha256:37ecde4d9a28e8aeeb07623c8469b5d558eb264e02ccf435bb859891c401758b",
-      "download_count": 153635,
+      "download_count": 165871,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:53Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 65912719,
       "digest": "sha256:f43a4360e894c952b97741d94dc3f1516a052ad7bf94ee2feaa5fd2a24bddc26",
-      "download_count": 421,
+      "download_count": 448,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:48Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-PDBs.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 223786669,
       "digest": "sha256:0d9436451c2d772b33428e3fdae9776f071895c335de17283176306fb72651d3",
-      "download_count": 20650,
+      "download_count": 21957,
       "created_at": "2026-10-29T21:43:45Z",
       "updated_at": "2026-10-29T21:43:55Z",
       "browser_download_url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64.zip"
