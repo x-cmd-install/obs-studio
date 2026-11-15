@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 79,533 · **Forks**: 11,247 · **Open issues**: 5,347 · **Contributors**: 670
+- **Stars**: 79,597 · **Forks**: 11,265 · **Open issues**: 5,350 · **Contributors**: 670
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 5695 · **Open PRs**: 349 · **Closed issues**: 4491 · **Open issues**: 856 · **Commits**: 15852
+- **Releases**: 255 · **Merged PRs**: 5695 · **Open PRs**: 351 · **Closed issues**: 4494 · **Open issues**: 856 · **Commits**: 15852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 4 | 18 | 42 | 43 | 36 | 17 |
-| last60d | 2026-09-15 | 8 | 56 | 64 | 74 | 52 | 73 |
-| 90d | 2026-08-16 | 8 | 80 | 77 | 95 | 71 | 114 |
-| last180d | 2026-05-18 | 15 | 166 | 125 | 177 | 128 | 268 |
-| 360d | 2025-11-19 | 26 | 312 | 201 | 362 | 227 | 495 |
-| last720d | 2024-11-24 | 43 | 697 | 276 | 778 | 435 | 1202 |
+| 30d | 2026-10-16 | 4 | 17 | 43 | 46 | 35 | 12 |
+| last60d | 2026-09-16 | 8 | 56 | 65 | 77 | 51 | 63 |
+| 90d | 2026-08-17 | 8 | 77 | 79 | 97 | 71 | 98 |
+| last180d | 2026-05-19 | 15 | 165 | 127 | 180 | 128 | 241 |
+| 360d | 2025-11-20 | 26 | 311 | 203 | 365 | 226 | 494 |
+| last720d | 2024-11-25 | 43 | 697 | 278 | 780 | 434 | 1202 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **229** distros on [repology.org](https://repology.org/project/obs-studio). **28** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
+Reported by **230** distros on [repology.org](https://repology.org/project/obs-studio). **29** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:25:26Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:17:11Z._
