@@ -14,7 +14,7 @@ x install obs-studio
 
 ## Code insight
 
-Total: **522,582** lines of code across **4039** files in the top 5 languages.
+Total: **522,583** lines of code across **4039** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `33.0.1` (2026-10-29)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-17
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 79,612 · **Forks**: 11,273 · **Open issues**: 5,351 · **Contributors**: 670
+- **Stars**: 79,641 · **Forks**: 11,278 · **Open issues**: 5,352 · **Contributors**: 670
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 5695 · **Open PRs**: 354 · **Closed issues**: 4495 · **Open issues**: 856 · **Commits**: 15852
+- **Releases**: 255 · **Merged PRs**: 5697 · **Open PRs**: 355 · **Closed issues**: 4495 · **Open issues**: 857 · **Commits**: 15854
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 17 | 42 | 45 | 36 | 12 |
-| last60d | 2026-09-17 | 8 | 56 | 68 | 76 | 51 | 63 |
-| 90d | 2026-08-18 | 8 | 76 | 82 | 97 | 72 | 98 |
-| last180d | 2026-05-20 | 15 | 164 | 129 | 179 | 129 | 241 |
-| 360d | 2025-11-21 | 26 | 311 | 206 | 363 | 226 | 494 |
-| last720d | 2024-11-26 | 43 | 697 | 280 | 780 | 434 | 1201 |
+| 30d | 2026-10-18 | 3 | 17 | 41 | 42 | 37 | 13 |
+| last60d | 2026-09-18 | 8 | 55 | 68 | 74 | 51 | 65 |
+| 90d | 2026-08-19 | 8 | 78 | 83 | 96 | 71 | 100 |
+| last180d | 2026-05-21 | 15 | 166 | 130 | 178 | 129 | 243 |
+| 360d | 2025-11-22 | 26 | 313 | 206 | 363 | 226 | 496 |
+| last720d | 2024-11-27 | 43 | 697 | 281 | 780 | 435 | 1202 |
 
 ## Release assets
 
@@ -82,24 +82,6 @@ Lowest-scoring checks:
 | [OBS-Studio-33.0.1-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-PDBs.zip) | 62.9 MiB | `native/win/x64` |
 | [OBS-Studio-33.0.1-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64.zip) | 213.4 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **229** distros on [repology.org](https://repology.org/project/obs-studio). **28** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `32.2.2` | ⚠️ outdated |
-| Debian 14 | `32.2.2` | ⚠️ outdated |
-| Debian 13 | `30.2.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `32.1.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `30.0.2` | ⚠️ outdated |
-| Arch | `33.0.1` | ✅ latest |
-| Fedora rawhide | `32.2.2` | ⚠️ outdated |
-| Nix unstable | `32.2.2` | ⚠️ outdated |
-| Void | `32.2.2` | ⚠️ outdated |
-| Alpine edge | `32.2.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `32.2.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `obs-studio` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +91,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:47:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:40:07Z._
