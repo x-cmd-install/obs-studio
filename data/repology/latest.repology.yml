@@ -1,3 +1,36 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: obs-studio
+  binname: obs-studio
+  visiblename: obs-studio
+  version: 33.0.1
+  origversion: 33.0.1-1
+  status: newest
+  summary: Free, open source software for live streaming and recording
+  licenses:
+    - GPL-2.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: obs-studio
+  binname: obs-studio
+  visiblename: obs-studio
+  version: 33.0.1
+  origversion: 33.0.1-1
+  status: newest
+  summary: Free, open source software for live streaming and recording
+  licenses:
+    - GPL-2.0-only
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: 17.0.2
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
 - repo: mx_21
   subrepo: main
   srcname: obs-studio
@@ -16,6 +49,15 @@
     - sramacher@debian.org
   categories:
     - video
+- repo: gobolinux
+  srcname: OBS-Studio
+  visiblename: OBS-Studio
+  version: 25.0.8
+  origversion: null
+  status: outdated
+  summary: OBS Studio - Free and open source software for live streaming and screen recording
+  licenses:
+    - GNU GPL version 2
 - repo: mx_21_testing
   srcname: obs-studio
   binnames:
@@ -50,6 +92,119 @@
     - umlaeute@debian.org
   categories:
     - video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "27"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "27.2"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: homebrew_casks
+  srcname: obs
+  visiblename: OBS
+  version: 33.0.1
+  origversion: null
+  status: newest
+  summary: Open-source software for live streaming and screen recording
+- repo: homebrew_casks
+  srcname: obs@beta
+  visiblename: OBS
+  version: 33.0.0-rc3
+  origversion: null
+  status: outdated
+  summary: Open-source software for live streaming and screen recording
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "28"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "0.651"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "0.653"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "29"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "0.656"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "0.657"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "0.1620"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
 - repo: aerynos
   srcname: obs-studio
   visiblename: obs-studio
@@ -59,50 +214,43 @@
   summary: Free and open source software for live streaming and screen recording
   licenses:
     - GPL-2.0-only
-- repo: alpine_3_17
-  subrepo: community
-  srcname: obs-studio
-  binname: obs-studio
-  visiblename: obs-studio
-  version: 28.1.2
-  origversion: 28.1.2-r0
-  status: outdated
-  summary: Free and open source software for live streaming and screen recording
-  maintainers:
-    - fcolista@alpinelinux.org
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
+  version: "30"
+  origversion: null
+  status: legacy
   licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
-  subrepo: community
-  srcname: obs-studio
-  binname: obs-studio-dev
-  visiblename: obs-studio-dev
-  version: 28.1.2
-  origversion: 28.1.2-r0
-  status: outdated
-  summary: Free and open source software for live streaming and screen recording (development files)
-  maintainers:
-    - fcolista@alpinelinux.org
-  licenses:
-    - GPL-2.0-or-later
-- repo: mx_25_testing
-  srcname: obs-studio
-  binnames:
-    - obs-studio
-    - obs-studio-common
-    - obs-plugins
-    - libobs0t64
-    - libobs-dev
-  visiblename: obs-studio
-  version: 32.2.2
-  origversion: 32.2.2+ds-1~mx25+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-    - azatoth@gmail.com
-    - umlaeute@debian.org
+    - GPLv2
   categories:
-    - video
+    - Video
+- repo: alpine_3_17
+  subrepo: community
+  srcname: obs-studio
+  binname: obs-studio
+  visiblename: obs-studio
+  version: 28.1.2
+  origversion: 28.1.2-r0
+  status: outdated
+  summary: Free and open source software for live streaming and screen recording
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: obs-studio
+  binname: obs-studio-dev
+  visiblename: obs-studio-dev
+  version: 28.1.2
+  origversion: 28.1.2-r0
+  status: outdated
+  summary: Free and open source software for live streaming and screen recording (development files)
+  maintainers:
+    - fcolista@alpinelinux.org
+  licenses:
+    - GPL-2.0-or-later
 - repo: alpine_3_18
   subrepo: community
   srcname: obs-studio
@@ -168,17 +316,6 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-2.0-or-later
-- repo: chimera
-  subrepo: main
-  srcname: obs-studio
-  binname: obs-studio
-  visiblename: obs-studio
-  version: 32.0.2
-  origversion: 32.0.2-r8
-  status: outdated
-  summary: Live streaming and screen recording software
-  licenses:
-    - GPL-2.0-or-later
 - repo: alpine_3_20
   subrepo: community
   srcname: obs-studio
@@ -231,17 +368,6 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-2.0-or-later
-- repo: arch
-  subrepo: extra
-  srcname: obs-studio
-  binname: obs-studio
-  visiblename: obs-studio
-  version: 33.0.1
-  origversion: 33.0.1-1
-  status: newest
-  summary: Free, open source software for live streaming and recording
-  licenses:
-    - GPL-2.0-only
 - repo: alpine_3_22
   subrepo: community
   srcname: obs-studio
@@ -255,6 +381,18 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-2.0-or-later
+- repo: aur
+  srcname: obs-studio-appimage
+  binname: obs-studio-appimage
+  visiblename: obs-studio-appimage
+  version: 32.2.2.2.6
+  origversion: 32.2.2.2.6-2
+  status: outdated
+  summary: OBS-Studio package based on AppImage
+  maintainers:
+    - slightlke@aur
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_23
   subrepo: community
   srcname: obs-studio
@@ -360,13 +498,15 @@
     - libobs-devel
     - obs-studio
     - obs-studio-debuginfo
+    - obs-studio-plugin-browser
+    - obs-studio-plugin-browser-debuginfo
   visiblename: obs-studio
   version: 33.0.1
-  origversion: 33.0.1-alt1
+  origversion: 33.0.1-alt2
   status: newest
   summary: Free and open source software for video recording and live streaming
   maintainers:
-    - scala@altlinux.org
+    - fidel@altlinux.org
   licenses:
     - GPL-2.0-or-later
   categories:
@@ -383,18 +523,17 @@
     - fallback-mnt-aosc@repology
   categories:
     - video
-- repo: aur
-  srcname: obs-studio-appimage
-  binname: obs-studio-appimage
-  visiblename: obs-studio-appimage
-  version: 32.2.2.2.6
-  origversion: 32.2.2.2.6-2
-  status: outdated
-  summary: OBS-Studio package based on AppImage
-  maintainers:
-    - slightlke@aur
+- repo: arch
+  subrepo: extra
+  srcname: obs-studio
+  binname: obs-studio
+  visiblename: obs-studio
+  version: 33.0.1
+  origversion: 33.0.1-1
+  status: newest
+  summary: Free, open source software for live streaming and recording
   licenses:
-    - GPL-3.0-or-later
+    - GPL-2.0-only
 - repo: aur
   srcname: obs-studio-git
   binname: obs-studio-git
@@ -430,6 +569,17 @@
   summary: Free, open source software for live streaming and recording
   licenses:
     - GPL-2.0-only
+- repo: chimera
+  subrepo: main
+  srcname: obs-studio
+  binname: obs-studio
+  visiblename: obs-studio
+  version: 32.0.2
+  origversion: 32.0.2-r8
+  status: outdated
+  summary: Live streaming and screen recording software
+  licenses:
+    - GPL-2.0-or-later
 - repo: chimera
   subrepo: main
   srcname: obs-studio
@@ -531,6 +681,24 @@
     - umlaeute@debian.org
   categories:
     - misc
+- repo: mx_25_testing
+  srcname: obs-studio
+  binnames:
+    - obs-studio
+    - obs-studio-common
+    - obs-plugins
+    - libobs0t64
+    - libobs-dev
+  visiblename: obs-studio
+  version: 32.2.2
+  origversion: 32.2.2+ds-1~mx25+1
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+    - azatoth@gmail.com
+    - umlaeute@debian.org
+  categories:
+    - video
 - repo: debian_13
   subrepo: trixie/main
   srcname: obs-studio
@@ -722,17 +890,6 @@
     - GPL-2.0-or-later and MIT and BSD-1-Clause and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
   categories:
     - Unspecified
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: obs-studio
-  binname: obs-studio
-  visiblename: obs-studio
-  version: 32.2.2
-  origversion: 32.2.2-1
-  status: outdated
-  summary: Free, open source software for live streaming and recording
-  licenses:
-    - GPL-2.0-only
 - repo: fedora_40
   subrepo: updates
   srcname: obs-studio
@@ -772,23 +929,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: obs-studio
-  binnames:
-    - obs-studio
-    - obs-studio-libs
-    - obs-studio-devel
-    - obs-studio-plugin-vlc-video
-  visiblename: obs-studio
-  version: 31.0.0~beta1
-  origversion: 31.0.0~beta1-2.fc41
-  status: legacy
-  summary: Open Broadcaster Software Studio
-  licenses:
-    - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: obs-studio
   binnames:
@@ -805,8 +945,8 @@
     - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
   categories:
     - Unspecified
-- repo: fedora_42
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: obs-studio
   binnames:
     - obs-studio
@@ -814,9 +954,9 @@
     - obs-studio-devel
     - obs-studio-plugin-vlc-video
   visiblename: obs-studio
-  version: 32.0.4
-  origversion: 32.0.4-3.fc42
-  status: outdated
+  version: 31.0.0~beta1
+  origversion: 31.0.0~beta1-2.fc41
+  status: legacy
   summary: Open Broadcaster Software Studio
   licenses:
     - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
@@ -834,6 +974,23 @@
   version: 31.0.2
   origversion: 31.0.2-2.fc42
   status: legacy
+  summary: Open Broadcaster Software Studio
+  licenses:
+    - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: obs-studio
+  binnames:
+    - obs-studio
+    - obs-studio-libs
+    - obs-studio-devel
+    - obs-studio-plugin-vlc-video
+  visiblename: obs-studio
+  version: 32.0.4
+  origversion: 32.0.4-3.fc42
+  status: outdated
   summary: Open Broadcaster Software Studio
   licenses:
     - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
@@ -874,17 +1031,21 @@
     - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
   categories:
     - Unspecified
-- repo: manjaro_stable
-  subrepo: extra
+- repo: nix_stable_24_05
   srcname: obs-studio
-  binname: obs-studio-plugin-browser
-  visiblename: obs-studio-plugin-browser
-  version: 32.2.2
-  origversion: 32.2.2-1
+  visiblename: obs-studio
+  version: 30.1.2
+  origversion: null
   status: outdated
-  summary: CEF-based OBS Studio browser plugin
+  summary: Free and open source software for video recording and live streaming
+  maintainers:
+    - contactmeongithubinstead@proton.me
+    - jb55@jb55.com
+    - materus@podkos.pl
+    - fpletz@fnordicwalking.de
   licenses:
-    - GPL-2.0-only
+    - GPL-2.0-or-later
+    - FDK-AAC
 - repo: fedora_44
   subrepo: release
   srcname: obs-studio
@@ -914,6 +1075,24 @@
   visiblename: obs-studio
   version: 32.1.1
   origversion: 32.1.1-3.fc44
+  status: outdated
+  summary: Open Broadcaster Software Studio
+  licenses:
+    - GPL-2.0-or-later and MIT and BSD-2-Clause and BSD-3-Clause and BSL-1.0 and LGPL-2.1-or-later and CC0-1.0 and (CC0-1.0 or OpenSSL or Apache-2.0) and LicenseRef-Fedora-Public-Domain and (BSD-3-Clause or GPL-2.0-only)
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: obs-studio
+  binnames:
+    - obs-studio
+    - obs-studio-libs
+    - obs-studio-devel
+    - obs-studio-plugin-browser
+    - obs-studio-plugin-vlc-video
+  visiblename: obs-studio
+  version: 32.2.2
+  origversion: 32.2.2-3.fc45
   status: outdated
   summary: Open Broadcaster Software Studio
   licenses:
@@ -982,6 +1161,20 @@
     - Unlicense
   categories:
     - media-video
+- repo: mageia_cauldron
+  subrepo: tainted/release
+  srcname: obs-studio
+  binnames:
+    - obs-studio
+  visiblename: obs-studio
+  version: 32.2.2
+  origversion: 32.2.2-3.mga11.tainted
+  status: outdated
+  summary: A recording/broadcasting program
+  licenses:
+    - GPLv2+
+  categories:
+    - Video/Utilities
 - repo: gentoo
   srcname: media-video/obs-studio
   visiblename: media-video/obs-studio
@@ -998,28 +1191,6 @@
     - Unlicense
   categories:
     - media-video
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: obs-studio
-  binname: obs-studio
-  visiblename: obs-studio
-  version: 33.0.1
-  origversion: 33.0.1-1
-  status: newest
-  summary: Free, open source software for live streaming and recording
-  licenses:
-    - GPL-2.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: obs-studio
-  binname: obs-studio
-  visiblename: obs-studio
-  version: 33.0.1
-  origversion: 33.0.1-1
-  status: newest
-  summary: Free, open source software for live streaming and recording
-  licenses:
-    - GPL-2.0-only
 - repo: gentoo
   srcname: media-video/obs-studio
   visiblename: media-video/obs-studio
@@ -1044,29 +1215,6 @@
   origversion: null
   status: outdated
   summary: Live streaming software
-- repo: gobolinux
-  srcname: OBS-Studio
-  visiblename: OBS-Studio
-  version: 25.0.8
-  origversion: null
-  status: outdated
-  summary: OBS Studio - Free and open source software for live streaming and screen recording
-  licenses:
-    - GNU GPL version 2
-- repo: homebrew_casks
-  srcname: obs
-  visiblename: OBS
-  version: 33.0.1
-  origversion: null
-  status: newest
-  summary: Open-source software for live streaming and screen recording
-- repo: homebrew_casks
-  srcname: obs@beta
-  visiblename: OBS
-  version: 33.0.0-rc3
-  origversion: null
-  status: outdated
-  summary: Open-source software for live streaming and screen recording
 - repo: kali_rolling
   subrepo: main
   srcname: obs-studio
@@ -1131,6 +1279,17 @@
     - Unlicense
   categories:
     - media-video
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: obs-studio
+  binname: obs-studio
+  visiblename: obs-studio
+  version: 32.2.2
+  origversion: 32.2.2-1
+  status: outdated
+  summary: Free, open source software for live streaming and recording
+  licenses:
+    - GPL-2.0-only
 - repo: liguros_stable
   srcname: media-video/obs-studio
   visiblename: media-video/obs-studio
@@ -1163,17 +1322,6 @@
     - Unlicense
   categories:
     - media-video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: 18.0.1
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
 - repo: liguros_develop
   srcname: media-video/obs-studio
   visiblename: media-video/obs-studio
@@ -1222,16 +1370,14 @@
     - Unlicense
   categories:
     - media-video
-- repo: mageia_9
-  subrepo: tainted/release
+- repo: mageia_10
+  subrepo: core/release
   srcname: obs-studio
   binnames:
     - obs-studio
-    - obs-studio-debuginfo
-    - obs-studio-debugsource
   visiblename: obs-studio
-  version: 29.1.3
-  origversion: 29.1.3-1.mga9.tainted
+  version: 32.1.2
+  origversion: 32.1.2-1.mga10
   status: outdated
   summary: A recording/broadcasting program
   licenses:
@@ -1252,34 +1398,6 @@
     - GPLv2+
   categories:
     - Video/Utilities
-- repo: mageia_10
-  subrepo: core/release
-  srcname: obs-studio
-  binnames:
-    - obs-studio
-  visiblename: obs-studio
-  version: 32.1.2
-  origversion: 32.1.2-1.mga10
-  status: outdated
-  summary: A recording/broadcasting program
-  licenses:
-    - GPLv2+
-  categories:
-    - Video/Utilities
-- repo: mageia_cauldron
-  subrepo: tainted/release
-  srcname: obs-studio
-  binnames:
-    - obs-studio
-  visiblename: obs-studio
-  version: 32.2.2
-  origversion: 32.2.2-3.mga11.tainted
-  status: outdated
-  summary: A recording/broadcasting program
-  licenses:
-    - GPLv2+
-  categories:
-    - Video/Utilities
 - repo: mageia_cauldron
   subrepo: core/release
   srcname: obs-studio
@@ -1294,21 +1412,17 @@
     - GPLv2+
   categories:
     - Video/Utilities
-- repo: nix_stable_24_05
+- repo: manjaro_stable
+  subrepo: extra
   srcname: obs-studio
-  visiblename: obs-studio
-  version: 30.1.2
-  origversion: null
+  binname: obs-studio-plugin-browser
+  visiblename: obs-studio-plugin-browser
+  version: 32.2.2
+  origversion: 32.2.2-1
   status: outdated
-  summary: Free and open source software for video recording and live streaming
-  maintainers:
-    - contactmeongithubinstead@proton.me
-    - jb55@jb55.com
-    - materus@podkos.pl
-    - fpletz@fnordicwalking.de
+  summary: CEF-based OBS Studio browser plugin
   licenses:
-    - GPL-2.0-or-later
-    - FDK-AAC
+    - GPL-2.0-only
 - repo: nix_stable_24_11
   srcname: obs-studio
   visiblename: obs-studio
@@ -1394,62 +1508,7 @@
   srcname: open-broadcaster-software
   binname: open-broadcaster-software
   visiblename: Open Broadcaster Software
-  version: "0.651"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "0.653"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "0.656"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "0.657"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "0.1620"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: 17.0.2
+  version: 18.0.1
   origversion: null
   status: legacy
   licenses:
@@ -1461,17 +1520,6 @@
   binname: open-broadcaster-software
   visiblename: Open Broadcaster Software
   version: 19.0.2
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "26"
   origversion: null
   status: legacy
   licenses:
@@ -1669,62 +1717,18 @@
   srcname: open-broadcaster-software
   binname: open-broadcaster-software
   visiblename: Open Broadcaster Software
+  version: "26"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Video
+- repo: npackd_stable
+  srcname: open-broadcaster-software
+  binname: open-broadcaster-software
+  visiblename: Open Broadcaster Software
   version: "26.1"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "27"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "27.2"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "28"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "29"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Video
-- repo: npackd_stable
-  srcname: open-broadcaster-software
-  binname: open-broadcaster-software
-  visiblename: Open Broadcaster Software
-  version: "30"
   origversion: null
   status: legacy
   licenses:
@@ -2399,7 +2403,7 @@
     - obs-studio-devel
   visiblename: obs-studio
   version: 33.0.1
-  origversion: 33.0.1-1699.2.pm.1
+  origversion: 33.0.1-1699.2.pm.2
   status: newest
   summary: A recording/broadcasting program
   maintainers:
@@ -2815,19 +2819,6 @@
     - LGPL
   categories:
     - extra/multimedia
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: obs
-  binname: obs-devel
-  visiblename: obs-devel
-  version: 32.2.2
-  origversion: 32.2.2_1
-  status: outdated
-  summary: Open Broadcaster Software - development files
-  maintainers:
-    - lemmi@nerd2nerd.org
-  licenses:
-    - GPL-2.0-or-later
 - repo: termux
   srcname: obs-studio
   binname: obs-studio
@@ -3030,6 +3021,19 @@
   origversion: 32.2.2_1
   status: outdated
   summary: Open Broadcaster Software
+  maintainers:
+    - lemmi@nerd2nerd.org
+  licenses:
+    - GPL-2.0-or-later
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: obs
+  binname: obs-devel
+  visiblename: obs-devel
+  version: 32.2.2
+  origversion: 32.2.2_1
+  status: outdated
+  summary: Open Broadcaster Software - development files
   maintainers:
     - lemmi@nerd2nerd.org
   licenses:
