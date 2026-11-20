@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 79,735 · **Forks**: 11,297 · **Open issues**: 5,357 · **Contributors**: 670
+- **Stars**: 79,800 · **Forks**: 11,314 · **Open issues**: 5,357 · **Contributors**: 670
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 5702 · **Open PRs**: 354 · **Closed issues**: 4503 · **Open issues**: 854 · **Commits**: 15859
+- **Releases**: 255 · **Merged PRs**: 5703 · **Open PRs**: 353 · **Closed issues**: 4503 · **Open issues**: 854 · **Commits**: 15859
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 20 | 35 | 50 | 33 | 18 |
-| last60d | 2026-09-20 | 8 | 60 | 66 | 83 | 47 | 70 |
-| 90d | 2026-08-21 | 8 | 83 | 80 | 104 | 67 | 105 |
-| last180d | 2026-05-23 | 15 | 170 | 127 | 186 | 126 | 248 |
-| 360d | 2025-11-24 | 26 | 318 | 205 | 370 | 222 | 501 |
-| last720d | 2024-11-29 | 43 | 700 | 279 | 789 | 430 | 1207 |
+| 30d | 2026-10-21 | 2 | 21 | 34 | 49 | 33 | 18 |
+| last60d | 2026-09-21 | 8 | 61 | 65 | 83 | 46 | 70 |
+| 90d | 2026-08-22 | 8 | 84 | 78 | 103 | 67 | 105 |
+| last180d | 2026-05-24 | 15 | 171 | 125 | 185 | 125 | 248 |
+| 360d | 2025-11-25 | 26 | 319 | 203 | 370 | 221 | 501 |
+| last720d | 2024-11-30 | 43 | 701 | 278 | 787 | 430 | 1207 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:38:01Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:29:39Z._
