@@ -14,7 +14,7 @@ x install obs-studio
 
 ## Code insight
 
-Total: **522,590** lines of code across **4039** files in the top 5 languages.
+Total: **522,604** lines of code across **4039** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,49 +42,49 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `33.0.2` (2026-11-20)
-- **Last commit**: 2026-11-19
+- **Latest**: `33.0.3` (2026-11-22)
+- **Last commit**: 2026-11-22
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 79,847 · **Forks**: 11,310 · **Open issues**: 5,360 · **Contributors**: 670
+- **Stars**: 79,930 · **Forks**: 11,326 · **Open issues**: 5,362 · **Contributors**: 670
 
 ## Totals (cumulative)
 
-- **Releases**: 256 · **Merged PRs**: 5703 · **Open PRs**: 354 · **Closed issues**: 4504 · **Open issues**: 856 · **Commits**: 15859
+- **Releases**: 257 · **Merged PRs**: 5705 · **Open PRs**: 354 · **Closed issues**: 4506 · **Open issues**: 856 · **Commits**: 15861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 21 | 34 | 49 | 34 | 18 |
-| last60d | 2026-09-22 | 9 | 59 | 65 | 83 | 48 | 70 |
-| 90d | 2026-08-23 | 9 | 83 | 77 | 104 | 69 | 105 |
-| last180d | 2026-05-25 | 16 | 169 | 124 | 185 | 126 | 248 |
-| 360d | 2025-11-26 | 27 | 318 | 204 | 371 | 222 | 501 |
-| last720d | 2024-12-01 | 44 | 701 | 279 | 788 | 432 | 1207 |
+| 30d | 2026-10-23 | 4 | 22 | 34 | 50 | 33 | 11 |
+| last60d | 2026-09-23 | 10 | 61 | 63 | 85 | 48 | 54 |
+| 90d | 2026-08-24 | 10 | 84 | 77 | 104 | 68 | 95 |
+| last180d | 2026-05-26 | 17 | 170 | 122 | 186 | 126 | 242 |
+| 360d | 2025-11-27 | 28 | 320 | 203 | 371 | 222 | 500 |
+| last720d | 2024-12-02 | 45 | 703 | 279 | 786 | 431 | 1209 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [OBS-Studio-33.0.2-macOS-Apple-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Apple-dSYMs.tar.xz) | 37.5 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.2-macOS-Apple.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Apple.dmg) | 199.9 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.2-macOS-Intel-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Intel-dSYMs.tar.xz) | 38.1 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.2-macOS-Intel.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Intel.dmg) | 211.5 MiB | `native/darwin/x64` |
-| [OBS-Studio-33.0.2-Sources.tar.gz](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Sources.tar.gz) | 15.9 MiB | `native/unknown` |
-| [OBS-Studio-33.0.2-Ubuntu-26.04-x86_64-dbsym.ddeb](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Ubuntu-26.04-x86_64-dbsym.ddeb) | 364.6 MiB | `other` |
-| [OBS-Studio-33.0.2-Ubuntu-26.04-x86_64.deb](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Ubuntu-26.04-x86_64.deb) | 151.9 MiB | `other` |
-| [OBS-Studio-33.0.2-Windows-arm64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-arm64-PDBs.zip) | 57.2 MiB | `native/win/arm64` |
-| [OBS-Studio-33.0.2-Windows-arm64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-arm64.zip) | 200.4 MiB | `native/win/arm64` |
-| [OBS-Studio-33.0.2-Windows-x64-Installer.exe](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64-Installer.exe) | 185.1 MiB | `native/win/x64` |
-| [OBS-Studio-33.0.2-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64-PDBs.zip) | 63.3 MiB | `native/win/x64` |
-| [OBS-Studio-33.0.2-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64.zip) | 225.2 MiB | `native/win/x64` |
+| [OBS-Studio-33.0.3-macOS-Apple-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-macOS-Apple-dSYMs.tar.xz) | 37.5 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.3-macOS-Apple.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-macOS-Apple.dmg) | 199.9 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.3-macOS-Intel-dSYMs.tar.xz](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-macOS-Intel-dSYMs.tar.xz) | 38.1 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.3-macOS-Intel.dmg](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-macOS-Intel.dmg) | 211.5 MiB | `native/darwin/x64` |
+| [OBS-Studio-33.0.3-Sources.tar.gz](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Sources.tar.gz) | 16.0 MiB | `native/unknown` |
+| [OBS-Studio-33.0.3-Ubuntu-26.04-x86_64-dbsym.ddeb](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Ubuntu-26.04-x86_64-dbsym.ddeb) | 364.5 MiB | `other` |
+| [OBS-Studio-33.0.3-Ubuntu-26.04-x86_64.deb](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Ubuntu-26.04-x86_64.deb) | 151.9 MiB | `other` |
+| [OBS-Studio-33.0.3-Windows-arm64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Windows-arm64-PDBs.zip) | 57.2 MiB | `native/win/arm64` |
+| [OBS-Studio-33.0.3-Windows-arm64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Windows-arm64.zip) | 200.4 MiB | `native/win/arm64` |
+| [OBS-Studio-33.0.3-Windows-x64-Installer.exe](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Windows-x64-Installer.exe) | 184.8 MiB | `native/win/x64` |
+| [OBS-Studio-33.0.3-Windows-x64-PDBs.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Windows-x64-PDBs.zip) | 61.7 MiB | `native/win/x64` |
+| [OBS-Studio-33.0.3-Windows-x64.zip](https://github.com/obsproject/obs-studio/releases/download/33.0.3/OBS-Studio-33.0.3-Windows-x64.zip) | 224.9 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **233** distros on [repology.org](https://repology.org/project/obs-studio). **15** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
+Reported by **232** distros on [repology.org](https://repology.org/project/obs-studio). **3** are ✅ on the latest upstream release, **131** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for obs-studio lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:18:27Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:41:48Z._
